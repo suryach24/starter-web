@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name> Surya
 
 # TECHNOLOGY COLOPHON
 
