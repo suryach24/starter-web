@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 	lol, roflmao
 # THANKS
-
+CHanges in after the stash 
     <name> Surya Chandra
 	Thanks to all my teachers.
 # TECHNOLOGY COLOPHON
