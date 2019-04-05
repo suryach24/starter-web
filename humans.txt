@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name> Surya
+    <name> Surya Chandra
 
 # TECHNOLOGY COLOPHON
 
